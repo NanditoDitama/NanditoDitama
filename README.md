@@ -16,12 +16,10 @@
 
 | Game | Mainkan |
 |------|---------|
-| 🐍 **Pixel Snake** (8-bit, buatan sendiri) | [**▶ MAIN SEKARANG**](https://NanditoDitama.github.io/pixel-snake/) |
-| ♟️ **Catur via Issue** | [**▶ Buat Langkah**](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cnew&body=Just+push+%27Submit+new+issue%27.) |
-| 👾 **Space Invaders (web)** | [**▶ Main**](https://freeinvaders.org/) |
-| 🏓 **Pong (web)** | [**▶ Main**](https://playpong.netlify.app/) |
-
-> 💡 File `index.html` game Snake ada di file terpisah (`pixel-snake.html`).
+| 🐍 **Pixel Snake** (8-bit, buatan sendiri) | [**▶ MAIN SEKARANG**](https://NanditoDitama.github.io/pixel-snake/index.html) |
+| ♟️ **Catur via Issue** | [**▶ Buat Langkah**]([https://github.com/timburgan/timburgan/issues/new?title=chess%7Cnew&body=Just+push+%27Submit+new+issue%27.](https://NanditoDitama.github.io/pixel-snake/csp.html)) |
+| 👾 **Space Invaders (web)** | [**▶ Main**]([https://freeinvaders.org/](https://NanditoDitama.github.io/pixel-snake/csp.html)) |
+| 🏓 **Pong (web)** | [**▶ Main**]([https://playpong.netlify.app/](https://NanditoDitama.github.io/pixel-snake/csp.html)) |
 
 ---
 

@@ -16,7 +16,7 @@
 
 | Game | Mainkan |
 |------|---------|
-| 🐍 **Pixel Snake** (8-bit, buatan sendiri) | [**▶ MAIN SEKARANG**](https://NanditoDitama.github.io/pixel-snake/index.html) |
+| 🐍 **Pixel Snake** (8-bit, buatan sendiri) | [**▶ MAIN SEKARANG**](https://NanditoDitama.github.io/pixel-snake/indexs.html) |
 | ♟️ **Catur via Issue** | [**▶ Buat Langkah**](https://github.com/NanditoDitama/pixel-snake/blob/main/csp.html) |
 | 👾 **Space Invaders (web)** | [**▶ Main**](https://github.com/NanditoDitama/pixel-snake/blob/main/csp.html) |
 | 🏓 **Pong (web)** | [**▶ Main**](https://github.com/NanditoDitama/pixel-snake/blob/main/csp.html) |

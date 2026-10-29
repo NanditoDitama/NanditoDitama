@@ -31,10 +31,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NanditoDitama&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d1a&title_color=39ff14&icon_color=ff00aa&text_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanditoDitama&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0d1a&title_color=39ff14&text_color=ffffff" />
-
-<br>
 
 <img src="https://streak-stats.demolab.com?user=NanditoDitama&theme=synthwave&hide_border=true&background=0d0d1a" height="170" />
 

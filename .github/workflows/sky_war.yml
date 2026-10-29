@@ -1,0 +1,26 @@
+name: Sky War Status Updater
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Berjalan otomatis setiap hari tengah malam
+  workflow_dispatch: # Bisa dijalankan manual dari tab Actions
+
+jobs:
+  update-sky-war:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Sky War Logic
+        run: |
+          echo "Updating Sky War player stats..."
+          # Tambahkan skrip kustom untuk meng-generate badge atau file status game
+          
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Sky War game status [skip ci]"
+          branch: main

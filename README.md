@@ -17,9 +17,9 @@
 | Game | Mainkan |
 |------|---------|
 | 🐍 **Pixel Snake** (8-bit, buatan sendiri) | [**▶ MAIN SEKARANG**](https://NanditoDitama.github.io/pixel-snake/index.html) |
-| ♟️ **Catur via Issue** | [**▶ Buat Langkah**]([https://github.com/timburgan/timburgan/issues/new?title=chess%7Cnew&body=Just+push+%27Submit+new+issue%27.](https://NanditoDitama.github.io/pixel-snake/csp.html)) |
-| 👾 **Space Invaders (web)** | [**▶ Main**]([https://freeinvaders.org/](https://NanditoDitama.github.io/pixel-snake/csp.html)) |
-| 🏓 **Pong (web)** | [**▶ Main**]([https://playpong.netlify.app/](https://NanditoDitama.github.io/pixel-snake/csp.html)) |
+| ♟️ **Catur via Issue** | [**▶ Buat Langkah**](https://github.com/NanditoDitama/pixel-snake/blob/main/csp.html) |
+| 👾 **Space Invaders (web)** | [**▶ Main**](https://github.com/NanditoDitama/pixel-snake/blob/main/csp.html) |
+| 🏓 **Pong (web)** | [**▶ Main**](https://github.com/NanditoDitama/pixel-snake/blob/main/csp.html) |
 
 ---
 

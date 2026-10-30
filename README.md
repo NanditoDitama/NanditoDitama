@@ -55,9 +55,6 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/🐍_CONTRIBUTION_SNAKE-0d0d1a?style=for-the-badge&title_color=39ff14" alt="Snake Animation"/>
-</h2>
 
 <div align="center">
 
